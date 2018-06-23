@@ -1,0 +1,7 @@
+compiler: ghcjs
+packages:
+    common/
+    pronounce/
+    backend/
+    frontend/
+
